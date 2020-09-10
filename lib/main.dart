@@ -7,6 +7,7 @@ import 'package:provider/provider.dart';
 
 void main() {
   runApp(MyApp());
+  print("hello world");
 }
 
 class MyApp extends StatelessWidget {
